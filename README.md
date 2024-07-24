@@ -1,6 +1,4 @@
 # EmailVerifyHub
-# EmailVerifyHub
-EmailVerifyHub
 EmailVerifyHub is an email validation tool that allows users to verify the validity of email addresses through a web interface. The tool utilizes an external API to check the email format, domain, and other attributes, providing comprehensive results on the validity of the email address.
 
 Features
